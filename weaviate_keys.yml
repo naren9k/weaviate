@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  keys: RmU1OFlDcnFfY0dGYU1hbXNTNWZ4MDBjeDJ1SzV0akMsN1VVNVBwUkRRX2JTUjh3SjM4bXFmVDVTUDVkd0hHY1U=
+kind: Secret
+metadata:
+  creationTimestamp: null
+  name: weaviate-keys
